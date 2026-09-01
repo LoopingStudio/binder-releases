@@ -6,6 +6,15 @@
     <description>Les mises à jour de Binder.</description>
     <language>fr</language>
     <item>
+      <title>0.0.3</title>
+      <pubDate>Tue, 01 Sep 2026 15:30:09 +0000</pubDate>
+      <sparkle:version>0.0.3</sparkle:version>
+      <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://loopingstudio.github.io/binder-releases/notes/0.0.3.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/LoopingStudio/binder-releases/releases/download/v0.0.3/Binder-0.0.3.dmg" length="21230227" type="application/octet-stream" sparkle:edSignature="b8lUX4oPc3GyGAeqs3SexE/ZSFMpqPVFfKLySRuZ9TASPGzYhhw8NDQHIYDW4i/n3hVmQhTkUBNHMuQ3Noy9BA==" />
+    </item>
+    <item>
       <title>0.0.2</title>
       <pubDate>Tue, 01 Sep 2026 15:12:50 +0000</pubDate>
       <sparkle:version>0.0.2</sparkle:version>
