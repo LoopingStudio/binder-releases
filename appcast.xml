@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Binder</title>
+    <link>https://loopingstudio.github.io/binder-releases/appcast.xml</link>
+    <description>Les mises à jour de Binder.</description>
+    <language>fr</language>
+    <item>
+      <title>0.0.1</title>
+      <pubDate>Tue, 01 Sep 2026 13:49:27 +0000</pubDate>
+      <sparkle:version>0.0.1</sparkle:version>
+      <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://loopingstudio.github.io/binder-releases/notes/0.0.1.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/LoopingStudio/binder-releases/releases/download/v0.0.1/Binder-0.0.1.dmg" length="19921486" type="application/octet-stream" sparkle:edSignature="l1leJ6sLhe/5znTCMA6KWVcQPZNecfUdh4iNqt4ABVVzASd1FHwYbvHsEW/5NvL4uk1OYK0g8QyxvH/O7wbfAw==" />
+    </item>
+  </channel>
+</rss>
